@@ -15,4 +15,4 @@ Air pollution is a significant problem with adverse health outcomes, so understa
 ## **Data Source**<br>
 The EPA Historical Air Quality data set is hosted [here on Google Cloud Platform](https://console.cloud.google.com/marketplace/product/epa/historical-air-quality?project=ethereal-accord-384901)
 
-The EPA's documentation for the data set can be found here.
+The EPA's documentation for the data set can be found [here](https://aqs.epa.gov/aqsweb/airdata/FileFormats.html)
